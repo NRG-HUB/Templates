@@ -1,4 +1,4 @@
-<p align="center"> <img width="200" src="https://raw.githubusercontent.com/NRG-HUB/SMARTPHONE_Study/main/nrg_logo.jpeg" alt="logo"> </p> 
+<p align="center"> <img width="200" src="https://raw.githubusercontent.com/NRG-HUB/SMARTPHONE_Study/main/nrg-logo.jpg" alt="logo"> </p> 
 <!-- NRG lab's logo should go at the top of the page, aligned center.-->
 
 <body style="background-color:{enter colour code here.};"></body> 
