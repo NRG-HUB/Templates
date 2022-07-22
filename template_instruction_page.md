@@ -1,9 +1,9 @@
+<p align="center"> <img width="200" src="https://raw.githubusercontent.com/NRG-HUB/SMARTPHONE_Study/main/nrg_logo.jpeg" alt="logo"> </p> 
+<!-- NRG lab's logo should go at the top of the page, aligned center.-->
+
 <body style="background-color:{enter colour code here.};"></body> 
 
 [HTML colour codes](https://htmlcolorcodes.com/) <!--Setting up the page's background colour. white (#fffff) is best.-->
-
-<p align="center"> <img width="200" src="nrg_logo.jpeg" alt="logo"> </p> 
-<!-- NRG lab's logo should go at the top of the page, aligned center.-->
 
 This page contains information about the {{Insert Study Name Here}} study being conducted by the NRG lab, University of Reading. <br>
 
