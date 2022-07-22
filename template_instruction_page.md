@@ -16,7 +16,7 @@ Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk">a.sahni@pgr
 
 <br>
 
-#### You can view the instructions in [<u>HEADING 1</u>](README.md#heading-1) and/or [<u>HEADING 2</u>](README.md#heading-2). 
+#### You can view the instructions in [<u>HEADING 1</u>](template_instruction_page.md#heading-1) and/or [<u>HEADING 2</u>](template_instruction_page.md#heading-2). 
 
 <br>
 <br>
@@ -34,3 +34,6 @@ Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk">a.sahni@pgr
 
 # Heading 2
 
+<br>
+<br>
+<br>
